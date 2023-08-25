@@ -1,2 +1,7 @@
 # Generative_models
-A collection of generative models
+
+En el vasto campo del aprendizaje automático y la inteligencia artificial, los autoencoders y los variational autoencoders (VAEs) han emergido como herramientas poderosas para la extracción y generación de características, así como para la exploración de espacios latentes complejos. Este repositorio tiene como objetivo ofrecer una comprensión profunda y práctica de estos conceptos fundamentales.
+
+Un autoencoder es una arquitectura de red neuronal que se utiliza para aprender representaciones comprimidas y significativas de datos. Actúa como un método eficaz para la reducción de dimensiones y la extracción de características, encontrando patrones subyacentes en los datos de entrada. Por otro lado, los variational autoencoders son una extensión de los autoencoders estándar que incorporan un componente probabilístico en su diseño. Esto les permite no solo generar representaciones latentes, sino también muestrear nuevas muestras en el espacio latente, lo que resulta en una poderosa técnica para la generación de datos novedosos y creativos.
+
+En este repositorio, exploraremos a fondo tanto los autoencoders tradicionales como los VAEs. A través de ejemplos prácticos, demos y explicaciones detalladas, nos sumergiremos en cómo construir, entrenar y aplicar estas arquitecturas. Analizaremos cómo los autoencoders pueden utilizarse en tareas de reducción de ruido, detección de anomalías, y cómo pueden ser adaptados a aplicaciones específicas. Además, exploraremos cómo los VAEs expanden esta funcionalidad al permitir la generación controlada y exploración creativa en espacios latentes continuos.
